@@ -1,4 +1,4 @@
-# Hola, soy Yemil Rios 👋
+# Hola, Soy Yemil Rios 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador autodidacta con una pasión por aprender y crecer constantemente.
 
